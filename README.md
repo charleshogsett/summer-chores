@@ -1,8 +1,23 @@
 # summer-chores
 
+callbackVersion.js
 
 1.  This project tests using callbacks and setTimeout functions
-2.  To run the code brose to the directory and enter 
+2.  To run the code browse to the directory and enter 
         node callbackVersion.js
-    follow the code with a custom name of your choice.  For Example:  
+    follow the code with a custom name of your choice.  
+    For Example:  
+        node callbackVersion.js Jim
+
+
+promiseVersion.js
+
+functionally for the user it works the same as the previous code. except it uses promises and method chaining.  The result is much cleaner code which is easier to implement and understand. 
+
+
+
+1.  To run the code browse to the directory and enter 
+        node callbackVersion.js
+    follow the code with a custom name of your choice.  
+    For Example:  
         node callbackVersion.js Jim
